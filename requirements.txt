@@ -1,0 +1,4 @@
+moviepy
+pdf2image
+speechrecognition
+pydub

@@ -1,4 +1,6 @@
-moviepy
-pdf2image
-speechrecognition
+PyPDF2
+SpeechRecognition
 pydub
+moviepy
+Pillow
+PyMuPDF
